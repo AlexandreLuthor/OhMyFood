@@ -1,0 +1,22 @@
+{
+    "name": "projet3oc",
+    "version": "1.0.0",
+    "description": "projet3",
+    "main": "index.js",
+    "scripts": {
+      "sass": "./node_modules/.bin/sass --watch ./sass/main.scss:./public/css/style.css"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AlexandreLuthor/Projet-3-OpenClassroom.git"
+    },
+    "author": "Alexandre Luthor",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/AlexandreLuthor/Projet-3-OpenClassroom/issues"
+    },
+    "homepage": "https://github.com/AlexandreLuthor/Projet-3-OpenClassroom#readme",
+    "dependencies": {
+      "sass": "^1.32.5"
+    }
+  }
