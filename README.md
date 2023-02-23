@@ -1,4 +1,4 @@
-Projet 3 "Ohmyfood", Openclassrooms.
+
 
 # Ohmyfood
 
